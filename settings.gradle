@@ -1,0 +1,2 @@
+include ':app', ':base', ':common', ':network', ':servicemanager', ':webview'
+rootProject.name='NewsMVVM'
